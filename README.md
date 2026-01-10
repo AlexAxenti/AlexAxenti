@@ -9,22 +9,22 @@ For more information checkout my links below!
 
 ## Featured Projects
 
-### 🧠 TouchBase — AI-powered networking CRM (Web + Chrome Extension)
+### TouchBase — AI-powered networking CRM (Web + Chrome Extension)
 A lightweight CRM for organizing contacts, tracking follow-ups, and staying intentional with relationships.  
 **Tech:** React, TypeScript, NestJS, Postgres/Supabase, Stripe  
 **Links:** [Web](https://touch-base.ca/) · [Chrome Store](https://chromewebstore.google.com/detail/touchbase/dgmjggdiacoemgnjjlkijjcmdljnmhok)
 
-### 📱 PostureCheck — posture & habits companion (Mobile)
+### PostureCheck — posture & habits companion (Mobile)
 A simple posture reminder and habit-tracking app for building healthy routines.  
 **Tech:** React Native, TypeScript, Expo 
 **Links:** [App store](https://apps.apple.com/us/app/posture-check/id6751126852)
 
-### 🦀 ShellStash — Rust CLI
+### ShellStash — Rust CLI
 A practical CLI tool built to help streamline my own workflows.  
 **Tech:** Rust  
 **Links:** [Repo](https://github.com/AlexAxenti/ShellStash)
 
-### 🧩 Mini CRM — systems design practice project
+### Mini CRM — systems design practice project
 A mini CRM built to practice patterns like service boundaries, caching, and clean API design.  
 **Tech:** Next.js, NestJS, Postgres, Redis, Docker  
 **Links:** [Repo](https://github.com/AlexAxenti/mini-crm)
