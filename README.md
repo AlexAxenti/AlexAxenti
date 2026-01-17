@@ -32,5 +32,3 @@ A mini CRM built to practice patterns like service boundaries, caching, and clea
 - **Backend:** NestJS, Node.js, C#/.NET  
 - **DevOps:** Docker, CI/CD, Kubernetes basics, Jenkins  
 - **Other:** Rust, Python, SQL, Go
-
----
