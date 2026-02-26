@@ -14,7 +14,7 @@ A lightweight CRM for organizing contacts, tracking follow-ups, and staying inte
 **Links:** [Web](https://touch-base.ca/) · [Chrome Store](https://chromewebstore.google.com/detail/touchbase/dgmjggdiacoemgnjjlkijjcmdljnmhok)
 
 ### ScreenTime - Rust Screen Time Usage Tracker (Windows)
-A Rust background agent paired with a React window that tracks screen time usage and displays interesting statistics.
+A Rust background agent paired with a React window that tracks screen time usage and displays interesting statistics.  
 **Links:** [Repo](https://github.com/AlexAxenti/screen_time) · [Installation](https://github.com/AlexAxenti/screen_time/releases/tag/v0.1.0)
 
 ### PostureCheck - posture & habits companion (Mobile)
