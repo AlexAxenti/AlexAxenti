@@ -15,7 +15,7 @@ A lightweight CRM for organizing contacts, tracking follow-ups, and staying inte
 
 ### ScreenTime - Rust Screen Time Usage Tracker (Windows)
 A Rust background agent paired with a React window that tracks screen time usage and displays interesting statistics.  
-**Links:** [Repo](https://github.com/AlexAxenti/screen_time) · [Installation](https://github.com/AlexAxenti/screen_time/releases/tag/v0.1.0)
+**Links:** [Repo](https://github.com/AlexAxenti/screen_time) · [Installation](https://github.com/AlexAxenti/screen_time/releases)
 
 ### PostureCheck - posture & habits companion (Mobile)
 A simple posture reminder and habit-tracking app for building healthy routines.  
