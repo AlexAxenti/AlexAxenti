@@ -17,9 +17,9 @@ A lightweight CRM for organizing contacts, tracking follow-ups, and staying inte
 A Rust background agent paired with a React window that tracks screen time usage and displays interesting statistics.  
 **Links:** [Repo](https://github.com/AlexAxenti/screen_time) · [Installation](https://github.com/AlexAxenti/screen_time/releases)
 
-### PostureCheck - posture & habits companion (Mobile)
-A simple posture reminder and habit-tracking app for building healthy routines.  
-**Links:** [App store](https://apps.apple.com/us/app/posture-check/id6751126852)
+### BiteStash - Restaurant Tracker (ASP.NET + Mobile)
+A mobile app that helps you remember your favourite restaurants..  
+**Links:** [App store](https://apps.apple.com/us/app/bitestash/id6761634953) · [API Repo](https://github.com/AlexAxenti/BiteStashApi) · [Mobile Repo](https://github.com/AlexAxenti/BiteStashMobile)
 
 ### ShellStash - Rust CLI
 A practical CLI tool built to help streamline my own workflows.  
